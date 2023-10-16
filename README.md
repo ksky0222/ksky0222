@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning **Robot control and SLAM**
 <!--
 **ksky0222/ksky0222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
